@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		54B376A7212BB48D00C84B5D /* Report.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B376A6212BB48D00C84B5D /* Report.swift */; };
+		54B376A92130B8D300C84B5D /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B376A82130B8D300C84B5D /* CoreDataStack.swift */; };
 		54EE95B421237A6D0000FB45 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54EE95B321237A6D0000FB45 /* AppDelegate.swift */; };
 		54EE95B621237A6D0000FB45 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54EE95B521237A6D0000FB45 /* Menu.swift */; };
 		54EE95B921237A6D0000FB45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54EE95B721237A6D0000FB45 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		54B376A6212BB48D00C84B5D /* Report.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Report.swift; sourceTree = "<group>"; };
+		54B376A82130B8D300C84B5D /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 		54EE95B021237A6D0000FB45 /* RoofingCalculatorSimple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = RoofingCalculatorSimple.app; path = "/Users/arwaahmed/Arwa/App Developement/RoofingCalculatorSimple/build/Debug-iphoneos/RoofingCalculatorSimple.app"; sourceTree = "<absolute>"; };
 		54EE95B321237A6D0000FB45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		54EE95B521237A6D0000FB45 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				54EE95E42123CA1D0000FB45 /* RoofForm.swift */,
 				54EE95E621240BD90000FB45 /* House.swift */,
 				54B376A6212BB48D00C84B5D /* Report.swift */,
+				54B376A82130B8D300C84B5D /* CoreDataStack.swift */,
 			);
 			path = RoofingCalculatorSimple;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				54EE95B621237A6D0000FB45 /* Menu.swift in Sources */,
 				54B376A7212BB48D00C84B5D /* Report.swift in Sources */,
 				54EE95E52123CA1D0000FB45 /* RoofForm.swift in Sources */,
+				54B376A92130B8D300C84B5D /* CoreDataStack.swift in Sources */,
 				54EE95E721240BD90000FB45 /* House.swift in Sources */,
 				54EE95B421237A6D0000FB45 /* AppDelegate.swift in Sources */,
 			);
